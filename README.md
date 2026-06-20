@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi!👋I'm BA4IHR
 
-<!--
-**MSK-10032/MSK-10032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My website:
+- https://radio-blog.100320721.xyz/
+- https://qrz.com/db/BA4IHR/
+
+---
+
+```
+ ____  _____   ____    _   _  _  ___ _   _ ____  
+|  _ \| ____| | __ )  / \ | || ||_ _| | | |  _ \  
+| | | |  _|   |  _ \ / _ \| || |_| || |_| | |_) |  
+| |_| | |___  | |_) / ___ \__   _| ||  _  |  _ <  
+|____/|_____| |____/_/   \_\ |_||___|_| |_|_| \_\  
+  
+__     ____   __  _____ _____  
+\ \   / /\ \ / / |___  |___ /  
+ \ \ / /  \ V /     / /  |_ \  
+  \ V /    | |     / /  ___) |  
+   \_/     |_|    /_/  |____/
+```
+
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=MSK-10032&show_icons=true&theme=dark)
