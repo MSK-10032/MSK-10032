@@ -22,4 +22,3 @@ __     ____   __  _____ _____
    \_/     |_|    /_/  |____/
 ```
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=MSK-10032&show_icons=true&theme=dark)
